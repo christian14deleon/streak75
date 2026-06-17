@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Expo / native build output
+.expo/
+dist/
+web-build/
+android/
+ios/
+*.orig.*
+
+# Metro / logs
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Env / secrets
+.env*.local
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml

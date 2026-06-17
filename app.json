@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Streak75",
+    "slug": "streak75",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "streak75",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.streak75.app"
+    },
+    "android": {
+      "package": "com.streak75.app"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-audio",
+      "expo-asset",
+      "expo-splash-screen"
+    ]
+  }
+}
